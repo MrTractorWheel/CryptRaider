@@ -1,3 +1,3 @@
 # CryptRaider
-Source code of a basic atmospheric puzzle game made via Unreal Engine 5
+Basic atmospheric puzzle game made via Unreal Engine 5 (to be able to play please download)
 
